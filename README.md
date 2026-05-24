@@ -1,5 +1,10 @@
 # 🛡️ Enterprise Authentication Threat Detection Platform
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Machine Learning](https://img.shields.io/badge/ML-IsolationForest-green)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-orange)
+
 A production-style SOC/SIEM cybersecurity analytics dashboard built with Python, Streamlit, Pandas, and machine learning concepts.
 
 This project simulates enterprise authentication telemetry and detects suspicious login activity, brute force behavior, service account abuse, lateral movement, foreign login anomalies, and anomalous authentication patterns.
@@ -9,6 +14,12 @@ This project simulates enterprise authentication telemetry and detects suspiciou
 # 🚀 Live Demo
 
 https://enterprise-app-threat-detection-8mxncfvnrm8xwfzk5v8ejh.streamlit.app/
+
+---
+
+# 🖼️ Platform Preview
+
+![Platform Banner](images/Screenshot%202026-05-19%20003636.png)
 
 ---
 
@@ -25,6 +36,9 @@ This project demonstrates:
 - Attack campaign simulation
 - Streamlit Cloud deployment
 - Production-style GitHub project organization
+- Cybersecurity analytics engineering
+- SIEM-style investigation workflows
+- Security-focused data analysis
 
 ---
 
@@ -39,6 +53,7 @@ This project demonstrates:
 - Multi-machine access detection
 - Country/IP-based risk signals
 - Attack campaign scoring
+- Dynamic threat severity classification
 
 ---
 
@@ -50,6 +65,7 @@ Uses Isolation Forest to identify unusual authentication behavior based on:
 - failed login counts
 - unique machines accessed
 - login hour
+- behavioral anomalies
 
 ---
 
@@ -73,6 +89,8 @@ The dataset includes realistic simulated attack scenarios:
 - Lateral Movement
 - Service Account Abuse
 - Foreign Login Anomaly
+
+This allows the platform to simulate real SOC investigation workflows and enterprise attack telemetry analysis.
 
 ---
 
@@ -238,6 +256,9 @@ This project demonstrates practical cybersecurity engineering skills across:
 - Streamlit dashboard engineering
 - Production deployment
 - GitHub project organization
+- Blue team analytics
+- Cybersecurity automation
+- SIEM-style investigation workflows
 
 ---
 
@@ -252,6 +273,9 @@ This project demonstrates practical cybersecurity engineering skills across:
 - Threat intelligence feed integration
 - Modular detection rules engine
 - Automated incident response workflows
+- Threat hunting query engine
+- Real-time dashboard updates
+- Detection-as-code architecture
 
 ---
 
