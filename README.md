@@ -202,10 +202,6 @@ enterprise-auth-threat-detection/
 │
 ├── streamlit/
 │   └── app.py
-│
-├── notebooks/
-├── models/
-├── utils/
 ├── images/
 │
 ├── requirements.txt
